@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "bbguai": "^1.0.0",
+    "ethers": "^5.7.2",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.7.0"
+  },
+  "name": "seanyu-web",
+  "description": "Some web3 shell",
+  "version": "1.1.11",
+  "main": "index.js",
+  "devDependencies": {
+    "cspell": "^6.31.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yu798842325/seanyu-web"
+  },
+  "keywords": [],
+  "author": "seanyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yu798842325/seanyu-web/issues"
+  },
+  "homepage": "https://github.com/yu798842325/seanyu-web#readme"
+}
